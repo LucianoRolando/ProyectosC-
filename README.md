@@ -1,2 +1,2 @@
 # ProyectosC-
-Algunos de mis proyectos hechos a traves de Visual Studio en C#
+Algunos de mis proyectos en Visual Studio, C#
